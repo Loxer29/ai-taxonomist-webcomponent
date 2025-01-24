@@ -213,7 +213,7 @@ export class AiTaxonomist extends LitElement {
                         ?loading=${this.identify.state === IdentifyState.Loading}
                         ?plantnetBrand=${this.isPlantNetBranded}
                     ></taxon-results>
-                    <ai-button-reset @press=${this.reset}>New identification</ai-button-reset>
+                    <ai-button-reset @press=${this.reset}>Nouvelle identification</ai-button-reset>
                     <ai-footer .doiUrl=${this.doiUrl}></ai-footer>
                 `
         }
