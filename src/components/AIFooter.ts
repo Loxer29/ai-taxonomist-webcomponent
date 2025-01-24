@@ -36,12 +36,12 @@ export class AIFooter extends LitElement {
 
         if (this.displaySpecies) {
             return html`
-                <a href="#" title="Close species list" @click="${this.__toggleSpeciesList}">Close species list</a>
+                <a href="#" title="Close species list" @click="${this.__toggleSpeciesList}">Liste des espèces proches</a>
                 <species-list .apiUrl="${this.apiUrl}"></species-list>
             `
         }
 
-        return html`<a href="#" title="Open species list" @click="${this.__toggleSpeciesList}">Species list</a
+        return html`<a href="#" title="Open species list" @click="${this.__toggleSpeciesList}">Liste des espèces</a
             ><a href="${this.doiUrl}" target="_blank" title="Open GBIF DOI"
                 >This identification engine has been trained on the GBIF Occurrence Download: ${this.doiUrl}</a
             >`
