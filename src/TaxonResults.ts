@@ -371,13 +371,13 @@ export class TaxonResults extends LitElement {
         const maxResults = 8
         const hasExtraResults =
             this.results.results.length > maxResults
-                ? html`<p>${this.results.results.length - maxResults} more results not displayed</p>`
+                ? html`<p>${this.results.results.length - maxResults} résultats supplémentaires non affichés</p>`
                 : null
 
         return html`
             <div class="container">
                 <div class="separatorContainer">
-                    <p class="title"><span>Results</span></p>
+                    <p class="title"><span>Résultats</span></p>
                     ${this.plantnetBrand ? html` <plantnet-brand></plantnet-brand>` : ''}
                 </div>
                 ${loading} ${error} ${this.results.overallScore ? html`<p><b>${this.results.overallScore}</b></p>` : ''}
