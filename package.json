@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "file-drop-element": "^1.0.1",
-    "lit": "^2.8.0"
+    "lit": "^2.8.0",
     "traductions-fr": "https://github.com/Loxer29/traductions-fr.git"
   },
   "devDependencies": {
