@@ -1,0 +1,1 @@
+{"version":3,"file":"ai-footer.js","sourceRoot":"","sources":["../../../src/components/ai-footer.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,eAAe,CAAA;AAExC,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,WAAW,EAAE,QAAQ,CAAC,CAAA","sourcesContent":["import { AIFooter } from './AIFooter.js'\r\n\r\nwindow.customElements.define('ai-footer', AIFooter)\r\n"]}

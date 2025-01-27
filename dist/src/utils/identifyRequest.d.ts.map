@@ -1,0 +1,1 @@
+{"version":3,"file":"identifyRequest.d.ts","sourceRoot":"","sources":["../../../src/utils/identifyRequest.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,OAAO,EAAE,MAAM,YAAY,CAAA;AA2BnD,eAAO,MAAM,eAAe,WAChB,IAAI,EAAE,UACN,MAAM,UACN,MAAM,GAAG,IAAI,iBACN,aAAa,KAC7B,QAAQ,OAAO,GAAG,MAAM,CAyB1B,CAAA;AAOD,eAAO,MAAM,UAAU,WAAkB,MAAM,iBAAiB,aAAa,KAAG,QAAQ,IAAI,GAAG,MAAM,CAepG,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"taxon-results.js","sourceRoot":"","sources":["../../src/taxon-results.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,mBAAmB,CAAA;AAEhD,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,eAAe,EAAE,YAAY,CAAC,CAAA","sourcesContent":["import { TaxonResults } from './TaxonResults.js'\r\n\r\nwindow.customElements.define('taxon-results', TaxonResults)\r\n"]}

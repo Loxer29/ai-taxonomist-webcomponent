@@ -1,0 +1,1 @@
+{"version":3,"file":"image-picker.js","sourceRoot":"","sources":["../../src/image-picker.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,kBAAkB,CAAA;AAE9C,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,cAAc,EAAE,WAAW,CAAC,CAAA","sourcesContent":["import { ImagePicker } from './ImagePicker.js'\r\n\r\nwindow.customElements.define('image-picker', ImagePicker)\r\n"]}

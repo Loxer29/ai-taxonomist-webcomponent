@@ -1,0 +1,1 @@
+{"version":3,"file":"ai-taxonomist.js","sourceRoot":"","sources":["../../src/ai-taxonomist.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,mBAAmB,CAAA;AAEhD,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,eAAe,EAAE,YAAY,CAAC,CAAA","sourcesContent":["import { AiTaxonomist } from './AiTaxonomist.js'\r\n\r\nwindow.customElements.define('ai-taxonomist', AiTaxonomist)\r\n"]}

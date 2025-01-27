@@ -1,0 +1,1 @@
+{"version":3,"file":"species-list.js","sourceRoot":"","sources":["../../../src/components/species-list.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,kBAAkB,CAAA;AAE9C,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,cAAc,EAAE,WAAW,CAAC,CAAA","sourcesContent":["import { SpeciesList } from './SpeciesList.js'\r\n\r\nwindow.customElements.define('species-list', SpeciesList)\r\n"]}

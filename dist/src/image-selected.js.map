@@ -1,0 +1,1 @@
+{"version":3,"file":"image-selected.js","sourceRoot":"","sources":["../../src/image-selected.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,oBAAoB,CAAA;AAElD,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,gBAAgB,EAAE,aAAa,CAAC,CAAA","sourcesContent":["import { ImageSelected } from './ImageSelected.js'\r\n\r\nwindow.customElements.define('image-selected', ImageSelected)\r\n"]}

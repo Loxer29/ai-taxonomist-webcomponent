@@ -1,0 +1,1 @@
+{"version":3,"file":"ai-loader.js","sourceRoot":"","sources":["../../../src/components/ai-loader.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,eAAe,CAAA;AAExC,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,WAAW,EAAE,QAAQ,CAAC,CAAA","sourcesContent":["import { AILoader } from './AILoader.js'\r\n\r\nwindow.customElements.define('ai-loader', AILoader)\r\n"]}
